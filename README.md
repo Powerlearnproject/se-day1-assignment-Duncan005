@@ -5,7 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a systematic and disciplined approach to the design, development, testing, and maintenance of software systems. It encompasses a range of methodologies and principles aimed at producing high-quality software that meets user requirements and is delivered on time and within budget.
+
 Importance in the technology industry;
 1. Quality Assurance: Software engineering practices help ensure that software is reliable, robust, and performs well under various conditions.
 2. Scalability: Software engineering methodologies support the development of scalable systems that can handle increased load and adapt to growth, ensuring long-term viability.
@@ -14,6 +16,7 @@ Importance in the technology industry;
 5. Efficiency: By applying engineering principles, software development processes can be optimized for better efficiency, reducing time and cost while improving productivity.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 The evolution of software engineering has been marked by several key milestones that have shaped the field into what it is today. Here are three significant milestones;
 1. The Birth of Software Engineering (1968)
 Event: The term "software engineering" was first used at the NATO Software Engineering Conference in Garmisch, Germany.
@@ -132,7 +135,7 @@ Stakeholder Communication: Engage with stakeholders to gather requirements, prov
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Integrated Development Environments (IDEs)
+1. Integrated Development Environments (IDEs)
 Importance:
 
 Centralized Workspace: IDEs provide a unified environment where developers can write, edit, debug, and test code, streamlining the development process and enhancing efficiency.
@@ -151,7 +154,7 @@ Visual Studio Code: A popular, lightweight IDE known for its extensibility and s
 IntelliJ IDEA: An IDE that provides advanced features for Java development and integrates well with other JVM languages and frameworks.
 Eclipse: An open-source IDE widely used for Java development, with support for various plugins and extensions.
 
-Version Control Systems (VCS)
+2. Version Control Systems (VCS)
 Importance:
 
 Code Management: VCSs track changes to the codebase over time, allowing developers to manage different versions of the code, revert to previous states, and understand the history of changes.
